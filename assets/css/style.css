@@ -44,6 +44,10 @@ body {
    background-color:  #2e959e;
    }
  
+   .card-text {
+    padding: 5%;
+    }
+
    /*contacto*/
  
    #contacto {
@@ -55,3 +59,18 @@ body {
       background-color: #000000;
       color: #ffffff;
      }
+
+     .btn {
+        background-color: #2e959e;
+     }
+
+        /*footer*/
+
+   #footer {
+    background-color: #2e959e;
+    color: #ffffff;
+     }
+
+.fab {
+color: #ffffff;
+}
