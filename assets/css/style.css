@@ -11,3 +11,47 @@ body {
      font-size: 20px;
      font-family: "Open Sans";
   }
+
+  /*nosotros*/
+#nosotros {
+    background-color: #000000;
+    color: #ffffff;
+   }
+  
+   #nosotros div{
+      font-family: "Open Sans";
+      line-height: 3;
+  
+   }
+  
+   #nosotros h4 {
+       font-weight: 600;
+   }
+  
+   .iconos {
+       background-color: #2e959e;
+       text-align: center;
+   }
+  
+   /*destacado*/
+
+ #destacado {
+    background-color: #000000;
+    color: #ffffff;
+   }
+ 
+   .card-body {
+   background-color:  #2e959e;
+   }
+ 
+   /*contacto*/
+ 
+   #contacto {
+     background-color: #000000;
+     color: #ffffff;
+    }
+ 
+    #typeform-widget  {
+      background-color: #000000;
+      color: #ffffff;
+     }
